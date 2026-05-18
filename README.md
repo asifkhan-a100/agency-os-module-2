@@ -26,6 +26,11 @@ Automatic strategy-to-calendar integration
 Error handling for invalid API responses
 Dynamic business-specific content generation
 
+Screenshots
+![content calendar](home.png)
+![content calendar](brief.png)
+![content calendar](calendar.png)
+
 What I Learned
 API integration and prompt engineering
 API integration workflows
